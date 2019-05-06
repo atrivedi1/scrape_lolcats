@@ -1,0 +1,12 @@
+//Scope
++grab first 10 pages of cat meme photos from lolcats.com
++save them to computer 
+
+//Tech
+
+//Todos
++research how to pull cat meme data x
++scrape html on lolcats 
+ -scrape the html from a page
++parse out img tags 
++ping individual urls from each tag and grab image directly
